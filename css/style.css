@@ -1,0 +1,163 @@
+.container{
+    padding:30px;
+    background-color:rgb(216, 38, 38);
+    color: hsl(48, 100%, 93%);
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    position: fixed;
+    width: 634px;
+}
+.content-container{
+    padding-left: 20em;
+    padding-right: 20em;
+}
+.main{
+    /* background-color: rgb(15, 151, 95); */
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    padding-top:200px;
+}
+.footer{
+    background-color:rgb(216, 38, 38);
+    width: 695px;
+    height: 34px;
+}
+.header-logo img{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+}
+.para{
+    background-color:white;
+    padding: 10px;
+}
+.content2{
+    background-color: rgb(238, 233, 227);
+}
+.jiji{
+    color: hsl(0, 77%, 48%);
+    font-style:normal;
+    font-weight: bold;
+    font-size:30px;
+}
+.para2{
+    color: hsl(0, 77%, 48%);
+    font-style:normal;
+    font-weight: bold;
+    font-size:30px;
+}
+.certifications{
+    color: hsl(0, 77%, 48%);
+    font-style:normal;
+    font-weight: bold;
+    font-size:30px;
+}
+.btn23{
+    color: hsl(0, 77%, 48%);
+    font-style:normal;
+    font-weight: bold;
+    font-size:30px;
+}
+.btn56{
+    color: hsl(0, 77%, 48%);
+    font-style:normal;
+    font-weight: bold;
+    font-size:30px;
+}
+.toto1{
+    margin:14px;
+    font-size: 20px;
+}
+.toto2{
+    margin:14px;
+    font-size: 20px;
+}
+.toto3{
+    margin:14px;
+    font-size: 20px;
+}
+.toto4{
+    margin:14px;
+    font-size: 20px;
+}
+.toto5{
+    margin:14px;
+    font-size: 20px;
+}
+.fofo{
+    font-size: 20px;
+    
+}
+.group{
+    display: flex;
+}
+.holding{
+    border-radius:1px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: grey;
+    width: 89px;
+    height: 29px;
+    padding-top:7px;
+    padding-left: 7px;
+}
+.list{
+   margin-left: 27px;
+   color: hsl(0, 77%, 48%);
+      
+}
+.clear{
+    color: black;
+    
+}
+.paris{
+    margin-left: 120px;
+}
+.group2{
+    display: flex;
+}
+.years{
+    border-radius:1px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: grey;
+    width: 89px;
+    height: 29px;
+    padding-top:7px;
+    padding-left: 7px; 
+}
+.years-lis{
+    margin-left: 27px;
+    color: hsl(0, 77%, 48%);
+    
+}
+.log{
+    color: black;
+}
+.iterms{
+   margin-left: 120px;
+}
+.programs{
+    margin-top:2px;
+}
+.javascript{
+    font-size:29px;
+    color:red;
+}
+.link{
+    display: flex;
+    margin-right:80px;
+}
+.javads{
+    font-size: 47px;
+    color: red;
+    margin-top:-18px;
+    
+}
+.fofo{
+    display: flex;
+}
