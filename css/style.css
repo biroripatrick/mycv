@@ -8,6 +8,7 @@
 .container{
     position: fixed;
     width: 634px;
+    top: 0;
 }
 .content-container{
     padding-left: 20em;
@@ -140,9 +141,6 @@
 }
 .iterms{
    margin-left: 120px;
-}
-.programs{
-    margin-top:2px;
 }
 .javascript{
     font-size:29px;
